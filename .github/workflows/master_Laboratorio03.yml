@@ -72,5 +72,5 @@ jobs:
           app-name: 'laravel-mysql-task-basic'
           slot-name: 'production'
           package: .
-          .
+          
           
